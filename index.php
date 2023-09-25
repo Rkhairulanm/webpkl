@@ -42,7 +42,6 @@
                         style="height: 150px;">
                         <div class="bg-light d-flex align-items-center justify-content-center rounded mb-2"
                             style="width: 60px; height: 60px;">
-                            <img class="w-75" src="img/tshirt.jpg" alt>
                         </div>
                         <div class="ps-4">
                             <h6 class="text-white mb-0">T-Shirt per Month</h6>

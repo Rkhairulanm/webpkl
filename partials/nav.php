@@ -18,6 +18,9 @@
                 <a href="fabric.php" class="nav-item nav-link <?php if($title == "Fabric"){
                     echo"active";
                 } ?>">Fabric</a>
+                <a href="career.php" class="nav-item nav-link <?php if($title == "Career"){
+                    echo"active";
+                } ?>">Career</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle <?php if($title == "PRODUCT SECTIONS"){
                     echo"active";
